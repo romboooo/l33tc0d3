@@ -55,3 +55,4 @@ func sortList(head *ListNode) *ListNode {
 
 	return merge(sortedLeft, sortedRight)
 }
+
